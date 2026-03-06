@@ -1,6 +1,19 @@
-# Primeiro Projeto em Java
 
-Projeto simples feito para aprendizado.
+# Sistema de Cadastro em Java
+
+Projeto desenvolvido em Java utilizando Swing e MySQL.
+
+## Tecnologias
+Java
+MySQL
+JDBC
+Eclipse
+
+## Funcionalidades
+- Cadastro
+- Consulta
+- Alteração
+- Exclusão
 
 ## 📸 Tela do programa
 
